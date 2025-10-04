@@ -40,8 +40,8 @@ Data Validation & Slicers
 📁 Ecommerce-Sales-Dashboard
 │── 📄 README.md            # Project Documentation
 │── 📊 Ecommerce_Dashboard.xlsx  # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
-│── 📂 Data                 # Raw & Processed Data Files
-│── 📂 Screenshots          # Dashboard Preview Images
+│── 📂 Data                 # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
+│── 📂 Screenshots          # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/VRINDA%20STORE%20ANNUAL%20REPORT%202022.png
 
 
 🚀 How to Use
@@ -56,7 +56,7 @@ Explore insights and export visuals if required.
 
 📸 Dashboard Preview
 
-
+https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/VRINDA%20STORE%20ANNUAL%20REPORT%202022.png
 
 📈 Insights You Can Gain
 
