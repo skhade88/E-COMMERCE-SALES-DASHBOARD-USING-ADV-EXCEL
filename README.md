@@ -38,10 +38,10 @@ Data Validation & Slicers
 
 📂 Project Structure
 📁 Ecommerce-Sales-Dashboard
-│── 📄 README.md            # Project Documentation
-│── 📊 Ecommerce_Dashboard.xlsx  # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
-│── 📂 Data                 # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
-│── 📂 Screenshots          # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/VRINDA%20STORE%20ANNUAL%20REPORT%202022.png
+# │── 📄 README.md            # Project Documentation
+# │── 📊 Ecommerce_Dashboard.xlsx  # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
+# │── 📂 Data                 # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
+# │── 📂 Screenshots          # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/VRINDA%20STORE%20ANNUAL%20REPORT%202022.png
 
 
 🚀 How to Use
