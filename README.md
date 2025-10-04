@@ -39,7 +39,7 @@ Data Validation & Slicers
 📂 Project Structure
 📁 Ecommerce-Sales-Dashboard
 │── 📄 README.md            # Project Documentation
-│── 📊 Ecommerce_Dashboard.xlsx  # Final Dashboard File
+│── 📊 Ecommerce_Dashboard.xlsx  # https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
 │── 📂 Data                 # Raw & Processed Data Files
 │── 📂 Screenshots          # Dashboard Preview Images
 
@@ -48,7 +48,7 @@ Data Validation & Slicers
 
 Download or clone this repository.
 
-Open the file Ecommerce_Dashboard.xlsx.:
+Open the file Ecommerce_Dashboard.xlsx.: https://github.com/skhade88/E-COMMERCE-SALES-DASHBOARD-USING-ADV-EXCEL/blob/main/Vrinda%20Store%20Data%20Analysis-project.xlsx
 
 Use slicers, filters, and timeline to interact with the dashboard.
 
@@ -56,7 +56,7 @@ Explore insights and export visuals if required.
 
 📸 Dashboard Preview
 
-(Add screenshots of your dashboard here for better presentation.)
+
 
 📈 Insights You Can Gain
 
@@ -82,6 +82,5 @@ Predictive analysis using Excel Forecasting or ML tools.
 
 Your Name
 
-📧 Email: your.email@example.com
+📧 Email: khadesachin9819@gmail.com
 
-🌐 LinkedIn/GitHub: [Your Profile Link]
