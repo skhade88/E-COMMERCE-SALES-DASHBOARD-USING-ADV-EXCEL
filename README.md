@@ -80,7 +80,7 @@ Predictive analysis using Excel Forecasting or ML tools.
 
 👤 Author
 
-Your Name
+PREPARED BY SACHIN KHADE
 
 📧 Email: khadesachin9819@gmail.com
 
