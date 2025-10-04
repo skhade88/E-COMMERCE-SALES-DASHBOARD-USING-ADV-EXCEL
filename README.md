@@ -1,6 +1,7 @@
 
 
 📊 E-commerce Sales Dashboard (Advanced Excel)
+
 📌 Project Overview
 
 This project is an E-commerce Sales Dashboard built using Advanced Excel techniques to analyze and visualize sales performance. It provides insights into revenue, profit, customer behavior, and product performance, helping businesses make data-driven decisions.
@@ -42,11 +43,12 @@ Data Validation & Slicers
 │── 📂 Data                 # Raw & Processed Data Files
 │── 📂 Screenshots          # Dashboard Preview Images
 
+
 🚀 How to Use
 
 Download or clone this repository.
 
-Open the file Ecommerce_Dashboard.xlsx.
+Open the file Ecommerce_Dashboard.xlsx.:
 
 Use slicers, filters, and timeline to interact with the dashboard.
 
